@@ -31,7 +31,6 @@ F55121002_Vidya Az Zahra_A (Final Project PAA II)
 
 
 Oleh karena itu, kompleksitas waktu average case dari bubble sort juga adalah **Θ(n^2)**.
----
 
 - Untuk insertion sort, mari kita asumsikan bahwa setiap elemen dalam array memiliki probabilitas yang sama untuk lebih kecil atau lebih besar dari elemen lain. Jadi kita bisa mengharapkan bahwa setengah dari elemen dalam array lebih kecil dari elemen saat ini dan setengahnya lagi lebih besar. Oleh karena itu, kita bisa mengharapkan bahwa setiap elemen harus digeser sebanyak setengah dari posisinya di setiap iterasi. Berikut ini adalah nilai kompleksitas waktu average case.
 
@@ -46,6 +45,7 @@ Oleh karena itu, kompleksitas waktu average case dari bubble sort juga adalah **
 
 
 Oleh karena itu, kompleksitas waktu average case dari insertion sort juga adalah **Θ(n^2)**.
+----------------------------------------------
 
 # **TSP dan Dijkstra Analisis Algoritma**
 # **Worst case**
