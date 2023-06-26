@@ -45,7 +45,6 @@ Oleh karena itu, kompleksitas waktu average case dari bubble sort juga adalah **
 
 
 Oleh karena itu, kompleksitas waktu average case dari insertion sort juga adalah **Θ(n^2)**.
-----------------------------------------------
 
 # **TSP dan Dijkstra Analisis Algoritma**
 # **Worst case**
